@@ -2,6 +2,7 @@
 💻 <span style="color:#3498db;">Full Stack PHP & Laravel Developer</span> based in <span style="color:#27ae60;">Melbourne 🇦🇺</span>
 
 Full stack developer specialized in **PHP & Laravel**, with hands-on experience across **backend (Java, Go)** and **frontend (React, Vue, Alpine.js, Livewire, Blade)**.  
+
 Passionate about building clean, scalable, and efficient web applications — from architecture to deployment — using modern frameworks, tools, and cloud technologies.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -18,5 +19,7 @@ Passionate about building clean, scalable, and efficient web applications — fr
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 - 🧩 **Focus:** Laravel ecosystem, RESTful API design, full-stack web development  
+
 - 🧰 **Tools:** PHPStorm, Docker, GitHub Actions, CI/CD pipelines, Linux  
+
 - 🌱 **Currently Exploring:** Java microservices, Go backend services, modern frontend workflows  
