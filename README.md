@@ -16,12 +16,13 @@ Passionate about building clean, scalable, and efficient web applications — fr
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 - 🧩 **Focus:** Laravel ecosystem, RESTful API design, full-stack web development  
 
-- 🧰 **Tools:** PHPStorm, Docker, GitHub Actions, CI/CD pipelines, Linux  
+- 🧰 **Tools:** PHPStorm, Cursor, Claude Code, Docker, GitHub Actions, Linux  
 
-- 🌱 **Currently Exploring:** Java microservices, Go backend services, modern frontend workflows
+- 🌱 **Currently Exploring:** Java microservices, Go backend services, NestJS, modern frontend workflows
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=brettoak)
