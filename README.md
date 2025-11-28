@@ -26,3 +26,5 @@ Passionate about building clean, scalable, and efficient web applications — fr
 - 🌱 **Currently Exploring:** Java microservices, Go backend services, NestJS, modern frontend workflows
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=brettoak)
+
+![Profile Views](https://komarev.com/ghpvc/?username=brettoak&style=flat)
