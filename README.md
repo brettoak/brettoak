@@ -22,4 +22,6 @@ Passionate about building clean, scalable, and efficient web applications — fr
 
 - 🧰 **Tools:** PHPStorm, Docker, GitHub Actions, CI/CD pipelines, Linux  
 
-- 🌱 **Currently Exploring:** Java microservices, Go backend services, modern frontend workflows  
+- 🌱 **Currently Exploring:** Java microservices, Go backend services, modern frontend workflows
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=brettoak)
